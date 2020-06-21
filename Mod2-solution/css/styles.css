@@ -1,0 +1,22 @@
+section {
+	position: absolute;
+	width: 30%;
+	background-color: lightgray;
+	float: right;
+	text-align: center;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	color: brown;
+	font-size: 120%;
+	top: 0px;
+	right: 0px;	
+	margin-bottom: 10px;		
+}
+
+p {
+	font-size: 110%;
+	margin-right: 15px;
+	margin-left: 15px;
+	clear: right;
+	margin-top: 25px;
+}
